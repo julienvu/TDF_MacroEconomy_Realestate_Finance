@@ -1,4 +1,5 @@
 
+# données sources: organisme Fred https://fred.stlouisfed.org/
 #debut code R
 #donnees fichier excel database-reaction_function2020.xlsx
 #importation des libraries readxl, dplyr, stats
